@@ -16,12 +16,14 @@
     padding: 20px 0px 20px 0px;
 }
 
-.jumbotron{
-	padding:70px 30px 70px 30px;
-	margin:0px auto;
-	background: #9575CD
-	color:floralwhite;
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #0000ff;
+    color: floralwhite;
+    background-color: #9575CD;
 }
+
 .address{
 	font-size: 80%;
 	margin:0px;
